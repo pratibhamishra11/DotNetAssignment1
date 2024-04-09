@@ -1,0 +1,7 @@
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\bin\Debug\DotNet1.exe.config
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\bin\Debug\DotNet1.exe
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\bin\Debug\DotNet1.pdb
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\obj\Debug\DotNet1.csproj.AssemblyReference.cache
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\obj\Debug\DotNet1.csproj.CoreCompileInputs.cache
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\obj\Debug\DotNet1.exe
+C:\Users\pratibha.m_int1589\source\repos\DotNetAssg1\DotNet1\obj\Debug\DotNet1.pdb
